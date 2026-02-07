@@ -1,2 +1,2 @@
 # password-strength-checker
-A C++ based project to check password strength and demonstrate basic password hashing concepts.
+A project to check password strength and demonstrate basic password hashing concepts.
